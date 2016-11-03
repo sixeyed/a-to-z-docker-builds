@@ -1,2 +1,3 @@
-# a-to-z-docker-builds
-The A-to-Z of Building Docker Images
+# The A-to-Z of Docker Image Building.
+
+A book about Dockerfiles and `docker build`.
