@@ -1,0 +1,6 @@
+FROM microsoft/nanoserver
+
+ADD a3.gz /added/
+ADD https://raw.githubusercontent.com/sixeyed/a-to-z-docker-builds/master/a-is-for-add/2/a4.gz /added/
+
+CMD ls /added
